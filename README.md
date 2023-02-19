@@ -1,4 +1,4 @@
-# Vite + Vue + TypeScript template
+# Vite + Vue + TypeScript boilerplate
 
 ## Description
 This repository includes Vite, Vue, TypeScript as main deps for starting new projects
@@ -14,6 +14,6 @@ This repository includes Vite, Vue, TypeScript as main deps for starting new pro
 3. Open up [http://localhost:3000](http://localhost:3000)
 
 ## License
-[MIT](https://github.com/FreeeeZ/vite-vue-typescript-template/blob/main/LICENSE)
+[MIT](https://github.com/FreeeeZ/vite-vue-typescript-boilerplate/blob/main/LICENSE)
 
 Copyright (c) 2023, Vladislav Shell
